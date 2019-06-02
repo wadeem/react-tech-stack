@@ -16,9 +16,9 @@ class ListItem extends Component {
 const styles = {
     listStyle: {
         fontSize: 21,
-        padding: 5
+        paddingLeft: 15
     }
-}
+};
 
 
 export default ListItem;
